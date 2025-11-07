@@ -1,0 +1,4 @@
+timestamp,city,temperature,humidity,wind_speed,description,aqi
+2025-11-08 00:35:12.722721,Delhi,22.86,16,2.27,clear sky,4
+2025-11-08 00:54:06.804234,Delhi,22.72,17,2.27,clear sky,4
+2025-11-08 01:07:55.774947,Delhi,22.72,17,2.27,clear sky,4
